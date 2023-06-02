@@ -1,5 +1,5 @@
 /*
- * Program that reads comma-separated GPS data from the command line and then displays it in JSON format
+ * Program that reads comma-separated GPS data from Standard Input and sends it to Standard Output in JSON format
  */
 
 
